@@ -54,7 +54,7 @@ framework of your choice. You should be able to create, show and delete records 
 
 ![Data_insert_](https://github.com/krishnasaw8340/Task-4-WEB-UI-Forms-2023/assets/63328010/90c7f0e0-1a4e-4f8b-ae10-f1103b97b559)
 
-## Alert message is pop-up after successful creation of record. [ " data is added is mongoDB " ]
+## Alert message is pop-up after successful creation of record. [ " data is added to mongoDB " ]
 
 ![data_insert_alert_show](https://github.com/krishnasaw8340/Task-4-WEB-UI-Forms-2023/assets/63328010/0c47f734-51a6-4bc3-9b97-ebd8bb26feac)
 
@@ -71,7 +71,9 @@ framework of your choice. You should be able to create, show and delete records 
    
  ## Confirmation of delete record is pop-up: .
    ![sure_delete](https://github.com/krishnasaw8340/Task-4-WEB-UI-Forms-2023/assets/63328010/13e93d06-55fa-452b-873b-1ae51023c128)
+   
 
+## After deletion of the record.
 
 ![deleted](https://github.com/krishnasaw8340/Task-4-WEB-UI-Forms-2023/assets/63328010/28d6c650-14fb-4fda-bc01-077eb483e38d)
 
