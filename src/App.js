@@ -1,5 +1,5 @@
-import Appbar from "./Appbar.js";
-import MainBody from './MainBody';
+import Appbar from "./Compo/Appbar.js";
+import MainBody from './Compo/MainBody.js';
 
 function App() {
   return (
