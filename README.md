@@ -82,7 +82,10 @@ framework of your choice. You should be able to create, show and delete records 
 
 # 4. Showing All Records 
 
-![Show_After_Inserted](https://github.com/krishnasaw8340/Task-4-WEB-UI-Forms-2023/assets/63328010/53876874-16d2-4bcd-acb2-c547f66077b9)
+
+![Showing_All_records](https://github.com/krishnasaw8340/Task-4-WEB-UI-Forms-2023/assets/63328010/0ec99601-8ba5-4481-af2c-72666ed02e83)
+
+
 
 ## MONGODB
 ![Mongo_DB_final](https://github.com/krishnasaw8340/Task-4-WEB-UI-Forms-2023/assets/63328010/1ba790af-9321-4390-b765-c0f7a1cbbc69)
