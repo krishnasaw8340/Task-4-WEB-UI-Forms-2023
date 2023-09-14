@@ -51,6 +51,7 @@ export default function MainBody() {
     axios
       .delete(`http://localhost:8080/delete/${id}`)
       .then((response) => {
+        window.confirm(`Are you sure want to delete record for id:  ${id}`)
         console.log(`Record with id ${id} deleted`);
         setShowData((prevData) => prevData.filter((d) => d.id !== id));
       })
