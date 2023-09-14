@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-// import './App.css';
 import Appbar from "./Appbar.js";
 import MainBody from './MainBody';
 
