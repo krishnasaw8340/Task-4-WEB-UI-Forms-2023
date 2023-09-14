@@ -32,7 +32,7 @@ framework of your choice. You should be able to create, show and delete records 
 
 
 # 2. Creating New Record
-    In this functionality user must have to pass all the inputs (id,name,language, framework) , So that the record will be created:
+   In this functionality user must have to pass all the inputs (id,name,language, framework) , So that the record will be created:
 
 
 # 3. Deleting Records :
